@@ -1,0 +1,7 @@
+Timestamp: 2025-11-20T14:10:13.886419
+Random source: https://edition.cnn.com
+Script directory: c:\Users\itg\Desktop\Lasák.2025.20.11
+Python executable: C:\Users\itg\AppData\Local\Programs\Python\Python312\python.exe
+Python version: 3.12.0 (tags/v3.12.0:0fb18b0, Oct  2 2023, 13:03:39) [MSC v.1935 64 bit (AMD64)]
+Public IP: 195.39.44.178
+Local IP: 10.129.0.111
